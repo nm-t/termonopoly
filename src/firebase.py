@@ -1,4 +1,5 @@
 # adapted from firebase/EventSource-Examples/python/chat.py by Shariq Hashme
+# https://github.com/shariq/firebase-python
 
 from sseclient import SSEClient
 import requests
